@@ -2,7 +2,8 @@
   "client_id": "https://jaybainss.github.io/tcg-pulse-client/tcg-pulse-client.json",
   "client_name": "TCG Market Nightly",
   "redirect_uris": [
-    "http://127.0.0.1/callback"
+    "http://127.0.0.1/callback",
+    "http://127.0.0.1:18765/callback"
   ],
   "grant_types": [
     "authorization_code",
