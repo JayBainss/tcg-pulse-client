@@ -3,7 +3,8 @@
   "client_name": "TCG Market Nightly",
   "redirect_uris": [
     "http://127.0.0.1/callback",
-    "http://127.0.0.1:18765/callback"
+    "http://127.0.0.1:18765/callback",
+    "https://tcg.aeopium.com/pulse/callback"
   ],
   "grant_types": [
     "authorization_code",
